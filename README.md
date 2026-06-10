@@ -1,117 +1,83 @@
-# 👋 Hey, I'm Sourav Vishwakrma
+# Hi 👋, I'm Sourav Vishwakrma
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Python+Developer;AI+%26+Machine+Learning+Engineer;Automation+Architect;Agentic+AI+Builder;Open+Source+Contributor;Building+Intelligent+Systems;Creating+The+Future+With+Code" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=souravvish00&label=Profile+Views&color=00C2FF&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Automation+Builder;Open+Source+Contributor;Building+the+Future+with+Code" />
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-## 🧠 Python Developer • AI/ML Engineer • Automation Builder
+### 🚀 About Me
 
-Building intelligent systems powered by Python, Artificial Intelligence, Machine Learning, Automation and Large Language Models.
-
-</div>
-
----
-
-# 🚀 About Me
-
-* 🤖 AI & Machine Learning Enthusiast
-* 🐍 Python First Developer
-* 🚀 Building Future Tech Products
-* ⚡ Automation & AI Agents
-* 🌍 Open Source Contributor
+* 🔭 Working on AI & Automation Projects
+* 🌱 Learning Advanced System Design
+* 💡 Building SaaS Products
+* 🤖 Exploring LLMs & AI Agents
 * 📍 Dhanbad, Jharkhand, India
+* ⚡ Passionate about creating impactful software
 
----
 
-# 🌐 Connect With Me
 
-<p align="center">
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 <a href="https://github.com/souravvish00">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:yourmail@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
 
-# ⚡ Tech Arsenal
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,linux,html,css,tailwind,bootstrap,figma" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,tensorflow,pytorch,mongodb,postgres,mysql,docker,linux,git,github,vscode,javascript"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravvish00&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravvish00&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🤖 AI Command Center
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=souravvish00&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravvish00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravvish00&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🔥 Contribution Streak
+## 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravvish00&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravvish00&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/souravvish00/souravvish00/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 🧠 AI Developer Dashboard
-
-<div align="center">
-
-| 🚀 Focus Areas          | ⚡ Current Status       |
-| ----------------------- | ---------------------- |
-| Artificial Intelligence | Building KAYA AI       |
-| Machine Learning        | Learning Advanced AI   |
-| Agentic AI              | Open Source Projects   |
-| Automation Systems      | Python Automation      |
-| Large Language Models   | AI Product Development |
-
-</div>
-
----
-
-# 📈 Profile Analytics
+## 🧠 AI Profile Overview
 
 <p align="center">
 
@@ -121,35 +87,27 @@ Building intelligent systems powered by Python, Artificial Intelligence, Machine
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project                   | Description                       |
-| ------------------------- | --------------------------------- |
-| 🤖 KAYA AI                | Personal AI Assistant with Memory |
-| 📊 AI Sales Call Analyzer | AI-powered Call Intelligence      |
-| 🎯 LinkedIn Automation    | Automated Lead Generation         |
-| 🎓 College Discovery      | College Search Platform           |
+| Project             | Description             |
+| ------------------- | ----------------------- |
+| KAYA AI             | Personal AI Assistant   |
+| LinkedIn Automation | Lead Generation Tool    |
+| AI Sales Analyzer   | Call Analytics Platform |
+| College Discovery   | College Search Platform |
 
 ---
 
-# 🌌 Digital Philosophy
+## 💻 Quote
 
-<div align="center">
-
-> "Artificial Intelligence is the future."
-
-> "Python is my weapon."
-
-> "Innovation is my mission."
-
-> "Building systems that think, learn and evolve."
-
-</div>
+> "Code. Build. Automate. Scale."
 
 ---
 
 <div align="center">
 
-## ⚡ PYTHON • AI • MACHINE LEARNING • AUTOMATION • FUTURE TECH ⚡
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=souravvish00&label=Profile+Views&color=blue&style=for-the-badge"/>
 
 </div>
