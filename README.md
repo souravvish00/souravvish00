@@ -67,18 +67,6 @@
 
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=souravvish00&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
