@@ -2,23 +2,33 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Python+Developer;AI+%26+Machine+Learning+Engineer;Automation+Architect;Building+Intelligent+Systems;Future+Tech+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Python+Developer;AI+%26+Machine+Learning+Engineer;Automation+Architect;Agentic+AI+Builder;Open+Source+Contributor;Building+Intelligent+Systems;Creating+The+Future+With+Code" />
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sourav%20Vishwakrma&fontAlign=50&fontSize=50&animation=fadeIn"/>
+<img src="https://komarev.com/ghpvc/?username=souravvish00&label=Profile+Views&color=00C2FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+<div align="center">
 
+## 🧠 Python Developer • AI/ML Engineer • Automation Builder
 
-* 🔭 Building AI & Automation Products
-* 🤖 Exploring LLMs and AI Agents
-* 🐍 Python Enthusiast
-* 🚀 Creating Future-Ready Software
+Building intelligent systems powered by Python, Artificial Intelligence, Machine Learning, Automation and Large Language Models.
+
+</div>
+
+---
+
+# 🚀 About Me
+
+* 🤖 AI & Machine Learning Enthusiast
+* 🐍 Python First Developer
+* 🚀 Building Future Tech Products
+* ⚡ Automation & AI Agents
+* 🌍 Open Source Contributor
 * 📍 Dhanbad, Jharkhand, India
 
 ---
@@ -28,15 +38,15 @@
 <p align="center">
 
 <a href="https://github.com/souravvish00">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -47,26 +57,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,tensorflow,pytorch,mongodb,postgres,mysql,docker,linux,git,github,vscode,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,tensorflow,pytorch,mongodb,postgres,mysql,docker,linux,git,github,vscode,javascript"/>
 
 </p>
 
 ---
 
-# 🤖 AI & Machine Learning
-
-* Artificial Intelligence
-* Machine Learning
-* Large Language Models (LLMs)
-* AI Agents
-* NLP Applications
-* Automation Systems
-* Data Analytics
-* Intelligent Workflows
-
----
-
-# 📊 AI Command Center
+# 🤖 AI Command Center
 
 <p align="center">
 
@@ -92,13 +89,29 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/souravvish00/souravvish00/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/souravvish00/souravvish00/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
 
 ---
 
-# 📈 Profile Dashboard
+# 🧠 AI Developer Dashboard
+
+<div align="center">
+
+| 🚀 Focus Areas          | ⚡ Current Status       |
+| ----------------------- | ---------------------- |
+| Artificial Intelligence | Building KAYA AI       |
+| Machine Learning        | Learning Advanced AI   |
+| Agentic AI              | Open Source Projects   |
+| Automation Systems      | Python Automation      |
+| Large Language Models   | AI Product Development |
+
+</div>
+
+---
+
+# 📈 Profile Analytics
 
 <p align="center">
 
@@ -110,31 +123,33 @@
 
 # 🚀 Featured Projects
 
-| Project                | Description                              |
-| ---------------------- | ---------------------------------------- |
-| 🤖 KAYA AI             | Personal AI Assistant with Memory        |
-| 📊 AI Sales Analyzer   | AI-powered Sales Call Intelligence       |
-| 🎯 LinkedIn Automation | Automated Lead Generation System         |
-| 🎓 College Discovery   | College Search & Recommendation Platform |
+| Project                   | Description                       |
+| ------------------------- | --------------------------------- |
+| 🤖 KAYA AI                | Personal AI Assistant with Memory |
+| 📊 AI Sales Call Analyzer | AI-powered Call Intelligence      |
+| 🎯 LinkedIn Automation    | Automated Lead Generation         |
+| 🎓 College Discovery      | College Search Platform           |
 
 ---
 
-# 🌌 Vision
+# 🌌 Digital Philosophy
 
-> Artificial Intelligence is the future.
+<div align="center">
 
-> Python is my weapon.
+> "Artificial Intelligence is the future."
 
-> Innovation is my mission.
+> "Python is my weapon."
 
-> Building systems that think, learn and evolve.
+> "Innovation is my mission."
+
+> "Building systems that think, learn and evolve."
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ PYTHON • AI • AUTOMATION • FUTURE TECH ⚡
-
-<img src="https://komarev.com/ghpvc/?username=souravvish00&style=for-the-badge"/>
+## ⚡ PYTHON • AI • MACHINE LEARNING • AUTOMATION • FUTURE TECH ⚡
 
 </div>
