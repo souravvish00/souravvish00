@@ -20,9 +20,7 @@
 * ⚡ Passionate about creating impactful software
 
 
-
-
-
+  
 ## 🌐 Connect With Me
 
 <p align="left">
