@@ -1,125 +1,123 @@
-# Hi 👋, I'm Sourav Vishwakrma
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Automation+Builder;Open+Source+Contributor;Building+the+Future+with+Code" />
+# 👋 Hello, I'm Sourav Vishwakrma
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=Python+Developer;AI+%26+Machine+Learning+Engineer;Automation+Architect;Building+Intelligent+Systems;Creating+the+Future+with+Code" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:06b6d4&text=AI%20%7C%20Python%20%7C%20Future%20Tech&fontAlign=50&fontSize=45&animation=fadeIn"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+## 🧠 Digital Identity
 
-### 🚀 About Me
+```python
+class SouravVishwakrma:
 
-* 🔭 Working on AI & Automation Projects
-* 🌱 Learning Advanced System Design
-* 💡 Building SaaS Products
-* 🤖 Exploring LLMs & AI Agents
-* 📍 Dhanbad, Jharkhand, India
-* ⚡ Passionate about creating impactful software
+    role = [
+        "Python Developer",
+        "AI/ML Engineer",
+        "Automation Developer",
+        "Future Tech Builder"
+    ]
 
----
+    languages = [
+        "Python",
+        "JavaScript"
+    ]
 
-## 🌐 Connect With Me
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLMs",
+        "Automation",
+        "Computer Vision",
+        "Data Science"
+    ]
 
-<p align="left">
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+    current_projects = [
+        "KAYA AI",
+        "AI Sales Call Analyzer",
+        "LinkedIn Lead Generation System",
+        "Education Technology Platform"
+    ]
 
-<a href="https://github.com/souravvish00">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:yourmail@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,linux,html,css,tailwind,bootstrap,figma" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravvish00&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravvish00&layout=compact&theme=tokyonight"/>
-
-</p>
+    mission = "Build intelligent software that solves real-world problems."
+```
 
 ---
 
-## 🔥 Contribution Streak
+## ⚡ AI & Python Stack
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravvish00&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,tensorflow,pytorch,mongodb,postgres,docker,linux,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤖 Areas of Expertise
 
-<p align="center">
+🧠 Artificial Intelligence
 
-<img src="https://github-profile-trophy.vercel.app/?username=souravvish00&theme=tokyonight&row=1&column=7"/>
+📊 Machine Learning
 
-</p>
+🔍 Data Analysis
+
+⚙️ Process Automation
+
+🚀 AI Agents
+
+💬 Large Language Models (LLMs)
+
+🔗 API Development
+
+☁️ Cloud-Based Applications
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravvish00&theme=tokyo-night"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=souravvish00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravvish00&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Building The Future
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/souravvish00/souravvish00/output/github-contribution-grid-snake.svg"/>
-
-</p>
+> Artificial Intelligence is not just technology.
+>
+> It is the next interface between humans and machines.
+>
+> I build systems that learn, automate, and evolve.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project             | Description             |
-| ------------------- | ----------------------- |
-| KAYA AI             | Personal AI Assistant   |
-| LinkedIn Automation | Lead Generation Tool    |
-| AI Sales Analyzer   | Call Analytics Platform |
-| College Discovery   | College Search Platform |
+🤖 KAYA AI
 
----
+🧠 AI Sales Call Analyzer
 
-## 💻 Quote
+📈 LinkedIn Lead Generation Engine
 
-> "Code. Build. Automate. Scale."
+🎓 College Discovery Platform
+
+🔍 Intelligent Automation Tools
 
 ---
 
 <div align="center">
 
-### 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=souravvish00&label=Profile+Views&color=blue&style=for-the-badge"/>
+### ⚡ "Python Today. AI Tomorrow. Innovation Forever."
 
 </div>
