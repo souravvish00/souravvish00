@@ -79,8 +79,7 @@
 
 ---
 
-## Flow with the river, drift with the wind, 
-because the thrill of life is found in its uncertainty - Sourav Vishwakrma
+## SANAKEFLOW, 
 
 <p align="center">
 
@@ -103,7 +102,8 @@ because the thrill of life is found in its uncertainty - Sourav Vishwakrma
 
 ## 💻 Quote
 
-> "Code. Build. Automate. Scale."
+> ## Flow with the river, drift with the wind,
+> because the thrill of life is found in its uncertainty - Sourav Vishwakrma
 
 ---
 
